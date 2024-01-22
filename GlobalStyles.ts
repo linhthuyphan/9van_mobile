@@ -1,0 +1,95 @@
+/* fonts */
+export const FontFamily = {
+  update: "Roboto-Medium",
+  internalAtlassianNavigationSearchText: "SF Pro",
+  input: "Roboto-Regular",
+  tableRight: "Roboto-Light",
+  vanWeb: "Exo-Bold",
+  menu: "Roboto-Bold",
+  sFProText: "SF Pro Text",
+};
+/* font sizes */
+export const FontSize = {
+  titleField_size: 18,
+  update_size: 14,
+  size_xs: 12,
+  size_5xs: 8,
+  vanWeb_size: 22,
+  menu_size: 13,
+  title_size: 20,
+  tabs_size: 17,
+  h1_size: 24,
+  contentNotifi_size: 16,
+};
+/* Colors */
+export const Color = {
+  colorTextDefault: "#172b4d",
+  colorTextInverse: "#fff",
+  colorBackgroundBrandBoldDefault: "#0c66e4",
+  colorTextSubtlest: "#626f86",
+  colorTextSubtle: "#44546f",
+  colorIconDisabled: "rgba(9, 30, 66, 0.31)",
+  colorBackgroundDisabled: "rgba(9, 30, 66, 0.03)",
+  colorBlanketDefault: "rgba(9, 30, 66, 0.49)",
+  lightColorbackgroundneutralsubtle: "rgba(0, 0, 0, 0)",
+  colorBackgroundNeutralDefault: "rgba(9, 30, 66, 0.06)",
+  colorBorderInput: "rgba(9, 30, 66, 0.14)",
+  colorBackgroundAccentMagentaSubtlestDefault: "#ffecf8",
+  colorBorderAccentMagenta: "#cd519d",
+  colorBackgroundDangerBoldDefault: "#c9372c",
+  colorTextDanger: "#ae2e24",
+  black: "#000",
+  colorTextAccentMagentaDefault: "#943d73",
+  eE2B8: "#7ee2b8",
+  colorBackgroundWarningBoldDefault: "#f5cd47",
+  background: "#f5f5f5",
+  active: "#e9f2ff",
+  colorTextSuccess: "#216e4e",
+  role: "#9fadbc",
+  colorGainsboro: "#d9d9d9",
+  stroke: "#8696a7",
+};
+/* Style Variables */
+export const StyleVariable = {
+  space050: 4,
+  space150: 12,
+  space075: 6,
+  space100: 8,
+  space025: 2,
+  space200: 16,
+  space300: 24,
+  space500: 40,
+  space0501: 4,
+  space400: 32,
+};
+/* Paddings */
+export const Padding = {
+  p_xs: 12,
+  p_9xs: 4,
+  p_5xs: 8,
+  p_7xs: 6,
+  p_11xs: 2,
+  p_base: 16,
+  p_4xs: 9,
+  p_5xl: 24,
+  p_xl: 20,
+  p_21xl: 40,
+  p_8xs: 5,
+  p_3xs: 10,
+  p_12xs: 1,
+  p_27xl: 46,
+  p_31xl: 50,
+  p_23xl: 42,
+  p_81xl: 100,
+};
+/* border radiuses */
+export const Border = {
+  br_3xs: 10,
+  br_10xs: 3,
+  br_lgi: 19,
+  br_11xs: 2,
+  br_12xs: 1,
+  br_8xs: 5,
+  br_xl: 20,
+  br_mini: 15,
+};
